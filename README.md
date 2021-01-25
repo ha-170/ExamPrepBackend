@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/ha-170/CA03Backend.svg?branch=master)](https://travis-ci.com/ha-170/CA03Backend)
+[![Build Status](https://travis-ci.com/ha-170/ExamPrepBackend.svg?branch=master)](https://travis-ci.com/ha-170/ExamPrepBackend)
 
-# CA03 Back-end 
+# ExamPrep Backend 
 
 ## Brug af startkoden:
 
